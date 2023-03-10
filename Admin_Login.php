@@ -31,7 +31,7 @@
                             <a href="index.php"><button type="button" name="Back" class="btn btn-success btn-block" >Back</button></a>
                             <button type="submit" name="login" class="btn btn-success btn-block " >Login</button>
                         </div>
-                        <p style="margin-top:10px;">New Admin? <a href="Admin_Reg.php" style="color:coral;text-decoration:none;">Register here</a></p>
+                        <!-- <p style="margin-top:10px;">New Admin? <a href="Admin_Reg.php" style="color:coral;text-decoration:none;">Register here</a></p> -->
                         </div>
                        
                     </form>
